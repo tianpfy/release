@@ -1,4 +1,4 @@
-                            Cultural heritage in North Queensland
+                           ### **Cultural heritage in North Queensland**
 
 This project explores the cultural heritage of the pastoral industry in North Queensland.
 More information about it can be found at (https://stockroute.org/Cattle/).
