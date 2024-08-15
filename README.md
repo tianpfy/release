@@ -17,7 +17,7 @@ so that it corresponds to your local settings.
 have JAVA already installed locally.
 
 If you are using the runtime then then command to start the application is
-'<your local path>\bin\java7 -jar <your localpath>\gulflocale.jar'
+'<<your local path>>\bin\java7 -jar <<your localpath>>\gulflocale.jar'
 
 Jim Monaghan
 j.monaghan@bigpond.com
